@@ -11,4 +11,4 @@ I approach a problem as a computer scientist through dividing and conquering, br
 
 What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
-Computer scientist fix problemsby writing code and creating systems that can keep data organized and make things easier to do. This is important as companies need to save time and money, issues get in the way of that. This project specifically helps Grazioso Salvare by getting them a dashboard that filters animal data and represents that data as a chart, map, and table. Making it easier to see what dogs match the rescue need.  
+Computer scientist fix problems by writing code and creating systems that can keep data organized and make things easier to do. This is important as companies need to save time and money, issues get in the way of that. This project specifically helps Grazioso Salvare by getting them a dashboard that filters animal data and represents that data as a chart, map, and table. Making it easier to see what dogs match the rescue need.  
